@@ -1,6 +1,4 @@
-# Apache_Spark_PySpark - Desenvolvidor por Leonardo José da Silva (Eu)
-
-# Fundamentos do Apache Spark
+# Fundamentos do Apache Spark PySpark - Desenvolvido por Leonardo José da Silva (Eu)
 
 Este projeto tem como objetivo fornecer uma introdução prática ao Apache Spark utilizando PySpark para análise de dados da Receita Federal. O notebook inclui etapas para configuração do ambiente, leitura e processamento dos dados, manipulação de DataFrames, execução de consultas SQL e visualização de resultados. Abaixo está uma descrição detalhada das seções e operações realizadas no notebook.
 
